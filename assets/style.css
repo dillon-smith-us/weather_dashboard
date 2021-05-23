@@ -1,0 +1,25 @@
+li {
+    text-transform: capitalize;
+    cursor: pointer;  
+}
+
+.list-group {
+    margin: 5px;
+}
+
+.forecast {
+    margin: 12px;
+}
+
+
+.col-sm-12 {
+    background-image: linear-gradient( to right, blue, #43223F);
+}
+
+.card-body-3 {
+    background-color: rgb(102, 163, 243);
+}
+
+li:hover {
+    background-color: yellowgreen;
+}
