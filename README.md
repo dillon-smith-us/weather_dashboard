@@ -6,8 +6,6 @@ This Application provides a search by city name result of current weather, as we
 Live site here -----> https://dillon-smith-us.github.io/weather_dashboard/
 <br>
 
-<br>
-![app](https://i.ibb.co/0jrpNXD/screenshot.png)
-<br>
-<br>
+![screenshot](https://i.ibb.co/0jrpNXD/screenshot.png)
+
 ![logo](https://i.ibb.co/PG4mk94/dillonsmithlogo-01.png)
